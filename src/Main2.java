@@ -22,9 +22,9 @@ public class Main2 {
 }
 
 class StudentDAO{
-    String url = "jdbc:mysql://localhost:3307/arsalankhroush";
-    String name = "root";
-    String pass = "arsalankhroush123@";
+    String url = "jdbc:mysql://localhost:3307/database";
+    String name = "name";
+    String pass = "password";
     Connection con = null;
     PreparedStatement pst = null;
     Statement stmt = null;
