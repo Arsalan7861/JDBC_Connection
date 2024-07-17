@@ -1,5 +1,5 @@
 # JDBC Connection 
-Connectiong mysql with java
+Connecting to mysql with java
 1. import --> java.sql
 2. load and register the driver --> com.mysql.jdbc.Driver
 3. Create Connection --> Connection
